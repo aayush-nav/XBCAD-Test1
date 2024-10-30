@@ -1,6 +1,6 @@
 ﻿namespace XBCAD7319_HR_App_Test1.Models
 {
-    // Github Testing - Date Testing
+    // Github Testing - Date Testing - 1
     public class AttendanceViewModel
     {
         public List<WeekViewModel> Weeks { get; set; }
