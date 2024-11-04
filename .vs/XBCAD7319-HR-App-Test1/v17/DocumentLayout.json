@@ -1,161 +1,161 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\",
+  "WorkspaceRootPath": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\attendance\\_calendarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\attendance\\_calendarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\anjal\\downloads\\varsity_college_2024\\semester_2\\xbcad7319\\projecttrials\\xbcad-test1\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\employee\\payrollinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\payrollinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\payroll-info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\payroll-info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\employeedetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\employeedetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\tabs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\js\\tabs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\performancereviews\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\performancereviews\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\employee\\onboarding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\onboarding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\employee\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\attendance\\_attendancesummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\attendance\\_attendancesummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\controllers\\performancereviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\performancereviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\viewmodel\\employeedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:viewmodel\\employeedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\performancereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\performancereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\jobdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\jobdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\calendarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\calendarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\calendarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\attendance\\_calendarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\attendance\\_calendarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\employee\\payrollinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\payrollinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\css\\payroll-info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\payroll-info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\css\\employeedetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\employeedetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\js\\tabs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\js\\tabs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\performancereviews\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\performancereviews\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\employee\\onboarding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\onboarding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\employee\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\attendance\\_attendancesummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\attendance\\_attendancesummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\controllers\\performancereviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\performancereviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\viewmodel\\employeedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:viewmodel\\employeedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\performancereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\performancereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\jobdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\jobdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -166,58 +166,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 29,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "Views\\Employee\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T21:23:59.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T21:23:59.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\Index.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T21:23:21.839Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Attendance\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Attendance\\Index.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Attendance\\Index.cshtml",
-              "RelativeToolTip": "Views\\Attendance\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T21:23:21.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_CalendarView.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Attendance\\_CalendarView.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\_CalendarView.cshtml",
               "RelativeDocumentMoniker": "Views\\Attendance\\_CalendarView.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Attendance\\_CalendarView.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\_CalendarView.cshtml",
               "RelativeToolTip": "Views\\Attendance\\_CalendarView.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T21:22:52.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T21:22:52.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "calendar.css",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\calendar.css",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\calendar.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\calendar.css",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\calendar.css",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\calendar.css",
               "RelativeToolTip": "wwwroot\\css\\calendar.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -225,11 +246,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Review.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Models\\Review.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Review.cs",
               "RelativeToolTip": "Models\\Review.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,24 +258,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Home\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Home\\Dashboard.cshtml",
               "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T12:13:23.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T12:13:23.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AttendanceRecord.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\AttendanceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\AttendanceRecord.cs",
               "RelativeDocumentMoniker": "Models\\AttendanceRecord.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\AttendanceRecord.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\AttendanceRecord.cs",
               "RelativeToolTip": "Models\\AttendanceRecord.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,24 +283,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AttendanceViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\AttendanceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\AttendanceViewModel.cs",
               "RelativeDocumentMoniker": "Models\\AttendanceViewModel.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\AttendanceViewModel.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\AttendanceViewModel.cs",
               "RelativeToolTip": "Models\\AttendanceViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T21:16:14.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -288,11 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -300,11 +320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -312,11 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CreateReview.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\PerformanceReviews\\CreateReview.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\PerformanceReviews\\CreateReview.cshtml",
               "RelativeDocumentMoniker": "Views\\PerformanceReviews\\CreateReview.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\PerformanceReviews\\CreateReview.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\PerformanceReviews\\CreateReview.cshtml",
               "RelativeToolTip": "Views\\PerformanceReviews\\CreateReview.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -324,11 +344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "bootstrap.js",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\bootstrap.js",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\js\\bootstrap.js",
               "RelativeToolTip": "wwwroot\\js\\bootstrap.js",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -336,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "tabs.js",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\tabs.js",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\js\\tabs.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\tabs.js",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\js\\tabs.js",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\js\\tabs.js",
               "RelativeToolTip": "wwwroot\\js\\tabs.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -348,11 +368,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EmployeeDetails.css",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\EmployeeDetails.css",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\EmployeeDetails.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\EmployeeDetails.css",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\EmployeeDetails.css",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\EmployeeDetails.css",
               "RelativeToolTip": "wwwroot\\css\\EmployeeDetails.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -360,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "payroll-info.css",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\payroll-info.css",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\payroll-info.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\payroll-info.css",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\wwwroot\\css\\payroll-info.css",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\payroll-info.css",
               "RelativeToolTip": "wwwroot\\css\\payroll-info.css",
               "ViewState": "AQIAAGkAAAAAAAAAAAAAAIUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -372,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "PerformanceReview.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\PerformanceReview.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\PerformanceReview.cs",
               "RelativeDocumentMoniker": "Models\\PerformanceReview.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\PerformanceReview.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\PerformanceReview.cs",
               "RelativeToolTip": "Models\\PerformanceReview.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,11 +404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Payroll.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Payroll.cs",
               "RelativeDocumentMoniker": "Models\\Payroll.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Payroll.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Payroll.cs",
               "RelativeToolTip": "Models\\Payroll.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAzwAAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +416,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\LoginViewModel.cs",
               "RelativeToolTip": "Models\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,11 +428,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "JobDetails.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\JobDetails.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\JobDetails.cs",
               "RelativeDocumentMoniker": "Models\\JobDetails.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\JobDetails.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\JobDetails.cs",
               "RelativeToolTip": "Models\\JobDetails.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -422,9 +442,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "EmployeeModel.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\EmployeeModel.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\EmployeeModel.cs",
               "RelativeToolTip": "Models\\EmployeeModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,11 +452,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -444,23 +464,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 0,
               "Title": "CalendarViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\CalendarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\CalendarViewModel.cs",
               "RelativeDocumentMoniker": "Models\\CalendarViewModel.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\CalendarViewModel.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\CalendarViewModel.cs",
               "RelativeToolTip": "Models\\CalendarViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:16:27.931Z"
+              "WhenOpened": "2024-11-03T21:16:27.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "PerformanceReviewsController.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\PerformanceReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\PerformanceReviewsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PerformanceReviewsController.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\PerformanceReviewsController.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\PerformanceReviewsController.cs",
               "RelativeToolTip": "Controllers\\PerformanceReviewsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -468,11 +489,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AttendanceController.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\AttendanceController.cs",
               "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\AttendanceController.cs",
               "RelativeToolTip": "Controllers\\AttendanceController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAASwBAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -480,11 +501,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "EmployeeDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\ViewModel\\EmployeeDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\ViewModel\\EmployeeDetailsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\EmployeeDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\ViewModel\\EmployeeDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\ViewModel\\EmployeeDetailsViewModel.cs",
               "RelativeToolTip": "ViewModel\\EmployeeDetailsViewModel.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -492,11 +513,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -506,9 +527,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -516,11 +537,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -528,11 +549,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -540,11 +561,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_AttendanceSummary.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Attendance\\_AttendanceSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\_AttendanceSummary.cshtml",
               "RelativeDocumentMoniker": "Views\\Attendance\\_AttendanceSummary.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Attendance\\_AttendanceSummary.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\_AttendanceSummary.cshtml",
               "RelativeToolTip": "Views\\Attendance\\_AttendanceSummary.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -552,11 +573,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Onboarding.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Onboarding.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Onboarding.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Onboarding.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Onboarding.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Onboarding.cshtml",
               "RelativeToolTip": "Views\\Employee\\Onboarding.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -564,11 +585,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PayrollInfo.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\PayrollInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\PayrollInfo.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\PayrollInfo.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\PayrollInfo.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\PayrollInfo.cshtml",
               "RelativeToolTip": "Views\\Employee\\PayrollInfo.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -576,11 +597,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Management.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Management.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Management.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Management.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Management.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Management.cshtml",
               "RelativeToolTip": "Views\\Employee\\Management.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -588,11 +609,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Details.cshtml",
               "RelativeToolTip": "Views\\Employee\\Details.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAF0AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -602,9 +623,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -614,9 +635,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Program.cs",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -624,11 +645,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -636,15 +657,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T16:04:54.958Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

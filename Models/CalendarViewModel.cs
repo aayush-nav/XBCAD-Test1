@@ -1,5 +1,6 @@
 ﻿namespace XBCAD7319_HR_App_Test1.Models
 {
+    //Calender Test
     public class CalendarViewModel
     {
         public List<WeekViewModel> Weeks { get; set; }

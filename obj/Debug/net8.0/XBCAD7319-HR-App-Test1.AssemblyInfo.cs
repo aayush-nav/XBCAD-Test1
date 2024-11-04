@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XBCAD7319-HR-App-Test1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a8b7e90c9824d6bf2ce93c01773f767c99f2c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc9b85f9b00e92628b6f0f1f345da86fcb523ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("XBCAD7319-HR-App-Test1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XBCAD7319-HR-App-Test1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
