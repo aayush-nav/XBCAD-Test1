@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\anjal\\downloads\\varsity_college_2024\\semester_2\\xbcad7319\\projecttrials\\xbcad-test1\\models\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\anjal\\downloads\\varsity_college_2024\\semester_2\\xbcad7319\\projecttrials\\xbcad-test1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\views\\attendance\\_calendarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -166,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -234,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AttendanceRecord.cs",
               "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\AttendanceRecord.cs",
               "RelativeDocumentMoniker": "Models\\AttendanceRecord.cs",
@@ -247,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AttendanceViewModel.cs",
               "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\AttendanceViewModel.cs",
               "RelativeDocumentMoniker": "Models\\AttendanceViewModel.cs",
@@ -260,13 +260,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T21:16:37.69Z",
               "EditorCaption": ""
