@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "Employee Management";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Management</title>
+    <link rel="stylesheet" href="~/css/employee-management.css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Employee Management</h1>
+            <div class="profile-icon"></div>
+        </header>
+
+        <div class="search-filter-container">
+            <input type="text" class="search-bar" placeholder="Search Employee" />
+            <div class="filters">
+                <select>
+                    <option>Department</option>
+                    <option>IT</option>
+                    <option>HR</option>
+                </select>
+                <select>
+                    <option>Role</option>
+                    <option>Developer</option>
+                    <option>Analyst</option>
+                </select>
+            </div>
+        </div>
+
+        <h2>Employee List</h2>
+        <table class="employee-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Role</th>
+                    <th>Dept</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <div class="employee-info">
+                            <img src="~/images/jake-smith.jpg" alt="Jake Smith" class="employee-img">
+                            Jake Smith
+                        </div>
+                    </td>
+                    <td>Developer</td>
+                    <td>IT</td>
+                    <td><span class="status active">Active</span></td>
+                    <td>
+                        <button class="edit-btn">Edit</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="employee-info">
+                            <img src="~/images/kate-clark.jpg" alt="Kate Clark" class="employee-img">
+                            Kate Clark
+                        </div>
+                    </td>
+                    <td>Analyst</td>
+                    <td>HR</td>
+                    <td><span class="status inactive">Inactive</span></td>
+                    <td>
+                        <button class="edit-btn">Edit</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="actions-container">
+            <button class="add-btn">Add new Employee</button>
+            <button class="remove-btn">Remove Employee</button>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,134 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #ddd;
+    padding: 20px;
+}
+
+    .sidebar h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+.sidebar-menu {
+    list-style: none;
+    padding: 0;
+}
+
+    .sidebar-menu li {
+        margin: 10px 0;
+    }
+
+        .sidebar-menu li a {
+            text-decoration: none;
+            padding: 10px;
+            display: block;
+            background: #eaeaea;
+            border-radius: 5px;
+            color: #333;
+        }
+
+            .sidebar-menu li a:hover {
+                background: #007bff;
+                color: white;
+            }
+
+.main-content {
+    flex-grow: 1;
+    padding: 20px;
+    background: white;
+}
+
+.form-header {
+    margin-bottom: 20px;
+    background: #f8f8f8;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+label {
+    width: 180px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="file"],
+select {
+    width: 300px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.tab-link {
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+    .tab-link.active {
+        background: #0056b3;
+    }
+
+.tab-content {
+    display: none;
+}
+
+    .tab-content.active {
+        display: block;
+    }
+
+.form-actions {
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .btn.back {
+        background-color: #ccc;
+    }
+
+    .btn.save {
+        background-color: #28a745;
+        color: white;
+    }
+
+    .btn.delete {
+        background-color: #dc3545;
+        color: white;
+    }

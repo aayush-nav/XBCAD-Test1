@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\XBCAD7319-HR-App-Test1.props" />
+</Project>

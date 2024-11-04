@@ -1,0 +1,66 @@
+﻿/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.employee-details {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+    .employee-details h1 {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+.tab-content {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.employee-card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+    .employee-card img {
+        border-radius: 50%;
+        margin-right: 20px;
+    }
+
+    .employee-card .employee-info {
+        font-size: 18px;
+    }
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+    .table th, .table td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+.btn {
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+
+    .btn:hover {
+        background-color: #0056b3;
+        cursor: pointer;
+    }

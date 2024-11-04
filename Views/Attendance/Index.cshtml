@@ -1,0 +1,188 @@
+﻿@model XBCAD7319_HR_App_Test1.Models.AttendanceViewModel
+
+<h1>Attendance Management</h1>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<div class="container">
+    <!-- Tab Navigation -->
+    <ul class="nav nav-tabs" id="attendanceTabs" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="attendance-log-tab" data-toggle="tab" href="#attendance-log" role="tab" aria-controls="attendance-log" aria-selected="true">Attendance</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="leave-requests-tab" data-toggle="tab" href="#leave-requests" role="tab" aria-controls="leave-requests" aria-selected="false">Leave Requests</a>
+        </li>
+    </ul>
+
+    <!-- Tab Content -->
+    <div class="tab-content mt-4" id="attendanceTabsContent">
+        <!-- Attendance Log Tab -->
+        <div class="tab-pane fade show active" id="attendance-log" role="tabpanel" aria-labelledby="attendance-log-tab">
+            <!-- Search Section -->
+            <div class="search-container mb-3">
+                <input type="text" id="employeeSearch" class="form-control" placeholder="Search for an employee..." />
+                <button id="searchButton" class="btn btn-primary mt-2">Search</button>
+                <button id="clearButton" class="btn btn-secondary mt-2">Clear</button>
+            </div>
+
+            <!-- Attendance Log Section -->
+            <h2>Attendance Log</h2>
+            <table class="table table-bordered table-striped" id="attendanceLogTable">
+                <thead>
+                    <tr>
+                        <th>Employee</th>
+                        <th>Date</th>
+                        <th>Check-In</th>
+                        <th>Check-Out</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var log in Model.AttendanceLogs)
+                    {
+                        <tr>
+                            <td>
+                                <a href="#" class="employee-name" data-employee="@log.EmployeeName">@log.EmployeeName</a>
+                            </td>
+                            <td>@log.Date.ToString("dd/MM/yyyy")</td>
+                            <td>@log.CheckIn</td>
+                            <td>@log.CheckOut</td>
+                            <td>@log.Status</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <!-- Placeholder for Calendar View -->
+            <div id="calendar-view-placeholder" class="mt-4">
+                <!-- Calendar will be loaded here when an employee is clicked -->
+            </div>
+
+            <!-- Attendance Summary Section -->
+            <div class="attendance-summary mt-4">
+                <h2>Attendance Summary</h2>
+                <ul>
+                    <li>Present: @Model.AttendanceSummary.PresentDays days</li>
+                    <li>Absent: @Model.AttendanceSummary.AbsentDays days</li>
+                    <li>Leaves: @Model.AttendanceSummary.LeaveDays days</li>
+                    <li>Holidays: @Model.AttendanceSummary.HolidayDays days</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Leave Requests Tab -->
+        <div class="tab-pane fade" id="leave-requests" role="tabpanel" aria-labelledby="leave-requests-tab">
+            <h2>Leave Requests</h2>
+            <table class="table table-bordered table-striped" id="leaveRequestTable">
+                <thead>
+                    <tr>
+                        <th>Employee</th>
+                        <th>Date</th>
+                        <th>Leave Type</th>
+                        <th>Reason</th>
+                        <th>Document</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var leaveRequest in Model.LeaveRequests)
+                    {
+                        <tr>
+                            <td>@leaveRequest.EmployeeName</td>
+                            <td>@leaveRequest.Date.ToString("dd/MM/yyyy")</td>
+                            <td>@leaveRequest.LeaveType</td>
+                            <td>@leaveRequest.Reason</td>
+                            <td>
+                                @if (leaveRequest.Document != null)
+                                {
+                                    <a href="@Url.Content("~/uploads/" + leaveRequest.Document)" target="_blank">View Doc</a>
+                                }
+                                else
+                                {
+                                    <span>N/A</span>
+                                }
+                            </td>
+                            <td>@leaveRequest.Status</td>
+                            <td>
+                                <button class="btn btn-success">Approve</button>
+                                <button class="btn btn-danger">Reject</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            // When an employee name is clicked, load their calendar view
+            $('.employee-name').click(function (e) {
+                e.preventDefault();
+                var employeeName = $(this).data('employee');
+
+                $.ajax({
+                    url: '@Url.Action("GetCalendarView", "Attendance")',
+                    type: 'GET',
+                    data: { employeeName: employeeName },
+                    success: function (result) {
+                        $('#calendar-view-placeholder').html(result);
+                    }
+                });
+            });
+
+            // Delegate to handle dynamic content loading for the calendar day clicks
+            $(document).on('click', '.attendance-day', function () {
+                var date = $(this).data('date');
+
+                $.ajax({
+                    url: '@Url.Action("GetAttendanceSummary", "Attendance")',
+                    type: 'GET',
+                    data: { date: date },
+                    success: function (result) {
+                        $('#attendance-summary-placeholder').html(result);
+                    }
+                });
+            });
+
+            // Search functionality
+            $('#searchButton').click(function () {
+                const searchValue = $('#employeeSearch').val().toLowerCase();
+
+                // Filter Attendance Log
+                $('#attendanceLogTable tbody tr').each(function () {
+                    const employeeName = $(this).find('td:first-child .employee-name').text().toLowerCase();
+                    $(this).toggle(employeeName.includes(searchValue));
+                });
+
+                // Filter Leave Requests
+                $('#leaveRequestTable tbody tr').each(function () {
+                    const employeeName = $(this).find('td:first-child').text().toLowerCase();
+                    $(this).toggle(employeeName.includes(searchValue));
+                });
+            });
+
+            // Clear functionality
+            $('#clearButton').click(function () {
+                $('#employeeSearch').val(''); // Clear the input field
+                $('#attendanceLogTable tbody tr').show(); // Show all Attendance Log rows
+                $('#leaveRequestTable tbody tr').show(); // Show all Leave Request rows
+            });
+        });
+    </script>
+
+    <style>
+        .container {
+            max-width: 1000px; /* Wider container */
+            margin: 0 auto;
+        }
+    </style>
+</div>
+
+<!-- Include Bootstrap JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>

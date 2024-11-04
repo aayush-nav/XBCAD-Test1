@@ -1,0 +1,152 @@
+﻿@model XBCAD7319_HR_App_Test1.Models.PerformanceReview
+
+<div class="container container-custom">
+    <h1>Performance Review</h1>
+    <h2>Create Review</h2>
+
+    <form asp-action="SaveReview" method="post">
+        <!-- Employee Dropdown -->
+        <div class="form-group">
+            <label for="EmployeeName">Employee</label>
+            <select asp-for="EmployeeName" class="form-control">
+                <option value="">Select Employee</option>
+                <option value="Mike Thompson">Mike Thompson</option>
+                <option value="Jane Doe">Jane Doe</option>
+                <option value="John Smith">John Smith</option>
+                <!-- Add more employees as needed -->
+            </select>
+        </div>
+
+        <!-- Review Date (Editable) -->
+        <div class="form-group">
+            <label for="ReviewDate">Review Date</label>
+            <input asp-for="ReviewDate" class="form-control" type="date" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+        </div>
+
+        <!-- Performance Rating -->
+        <div class="form-group">
+            <label for="PerformanceRating">Performance Rating</label>
+            <select asp-for="PerformanceRating" class="form-control">
+                <option value="Excellent">Excellent</option>
+                <option value="Good">Good</option>
+                <option value="Satisfactory">Satisfactory</option>
+                <option value="Needs Improvement">Needs Improvement</option>
+            </select>
+        </div>
+
+        <!-- Feedback Section -->
+        <div class="form-group">
+            <label for="Feedback">Feedback</label>
+            <textarea asp-for="Feedback" class="form-control" rows="4" placeholder="Provide feedback..."></textarea>
+        </div>
+
+        <!-- Save Review Button -->
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Save And Submit Review To Employee</button>
+        </div>
+    </form>
+
+    <h3>View Past Reviews</h3>
+
+    <!-- Search Section -->
+    <div class="form-group">
+        <label for="searchTerm">Search Employee Reviews</label>
+        <input type="text" id="searchTerm" class="form-control" placeholder="Enter employee name..." />
+    </div>
+    <div class="form-group">
+        <button type="button" class="btn btn-secondary" onclick="searchReviews()">Search</button>
+        <button type="button" class="btn btn-light" onclick="clearSearch()">Clear</button>
+    </div>
+
+    <div class="table-container">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th class="employee-column">Employee</th>
+                    <th class="date-column">Review Date</th>
+                    <th class="rating-column">Performance Rating</th>
+                    <th class="feedback-column">Feedback</th>
+                </tr>
+            </thead>
+            <tbody id="reviewTableBody">
+                @foreach (var review in XBCAD7319_HR_App_Test1.Models.PerformanceReview.PastReviews)
+                {
+                    <tr>
+                        <td class="employee-column">@review.EmployeeName</td>
+                        <td class="date-column">@review.ReviewDate.ToString("yyyy-MM-dd")</td>
+                        <td class="rating-column">@review.PerformanceRating</td>
+                        <td class="feedback-column">@review.Feedback</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <style>
+        .container {
+            max-width: 1000px; /* Wider container */
+            margin: 0 auto;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        label {
+            margin-bottom: 0.5rem;
+        }
+
+        /* Table Styles */
+        .table-container {
+            width: 100%;
+        }
+
+        .table-bordered {
+            width: 100%;
+            border: 1px solid #ddd;
+            border-collapse: collapse;
+        }
+
+            .table-bordered th, .table-bordered td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+
+            .table-bordered th {
+                background-color: #f2f2f2;
+            }
+
+        /* Column widths */
+        .employee-column {
+            width: 15%;
+        }
+
+        .date-column {
+            width: 15%;
+        }
+
+        .rating-column {
+            width: 20%;
+        }
+
+        .feedback-column {
+            width: 25%;
+        }
+    </style>
+
+    <script>
+        function searchReviews() {
+            var searchTerm = document.getElementById("searchTerm").value;
+            // Redirect to CreateReview action with the search term as a parameter
+            window.location.href = '@Url.Action("CreateReview", "PerformanceReviews")?searchTerm=' + encodeURIComponent(searchTerm);
+        }
+
+        function clearSearch() {
+            document.getElementById("searchTerm").value = ''; // Clear the input field
+            // Redirect to CreateReview action without search term
+            window.location.href = '@Url.Action("CreateReview", "PerformanceReviews")';
+        }
+
+    </script>
+</div>
