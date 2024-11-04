@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\XBCAD7319-HR-App-Test1.csproj": {}
+    "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\XBCAD7319-HR-App-Test1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\XBCAD7319-HR-App-Test1.csproj": {
+    "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\XBCAD7319-HR-App-Test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\XBCAD7319-HR-App-Test1.csproj",
+        "projectUniqueName": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\XBCAD7319-HR-App-Test1.csproj",
         "projectName": "XBCAD7319-HR-App-Test1",
-        "projectPath": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\XBCAD7319-HR-App-Test1.csproj",
-        "packagesPath": "C:\\Users\\aayus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\obj\\",
+        "projectPath": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\XBCAD7319-HR-App-Test1.csproj",
+        "packagesPath": "C:\\Users\\anjal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anjal\\Downloads\\VARSITY_COLLEGE_2024\\SEMESTER_2\\XBCAD7319\\ProjectTrials\\XBCAD-Test1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aayus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anjal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

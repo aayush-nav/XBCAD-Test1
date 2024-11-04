@@ -1,5 +1,6 @@
 ﻿namespace XBCAD7319_HR_App_Test1.Models
 {
+    // Github Testing
     public class AttendanceRecord
     {
         public int Id { get; set; }
