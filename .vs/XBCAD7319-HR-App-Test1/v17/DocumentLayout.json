@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\calendarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\calendarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C71BA38E-27C2-4F92-8E76-5381F5FD5061}|XBCAD7319-HR-App-Test1.csproj|c:\\users\\aayus\\source\\repos\\xbcad7319-hr-app-test1\\wwwroot\\css\\employeedetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -166,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 29,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -198,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
@@ -210,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Attendance\\Index.cshtml",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_CalendarView.cshtml",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Attendance\\_CalendarView.cshtml",
               "RelativeDocumentMoniker": "Views\\Attendance\\_CalendarView.cshtml",
@@ -258,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
@@ -270,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AttendanceRecord.cs",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\AttendanceRecord.cs",
               "RelativeDocumentMoniker": "Models\\AttendanceRecord.cs",
@@ -278,12 +278,11 @@
               "RelativeToolTip": "Models\\AttendanceRecord.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:16:04.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T21:16:04.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AttendanceViewModel.cs",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\AttendanceViewModel.cs",
               "RelativeDocumentMoniker": "Models\\AttendanceViewModel.cs",
@@ -291,8 +290,7 @@
               "RelativeToolTip": "Models\\AttendanceViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:16:14.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T21:16:14.001Z"
             },
             {
               "$type": "Document",
@@ -380,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "payroll-info.css",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\wwwroot\\css\\payroll-info.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\payroll-info.css",
@@ -452,19 +450,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:16:37.69Z"
+              "WhenOpened": "2024-11-03T21:16:37.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CalendarViewModel.cs",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Models\\CalendarViewModel.cs",
               "RelativeDocumentMoniker": "Models\\CalendarViewModel.cs",
@@ -585,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PayrollInfo.cshtml",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\PayrollInfo.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\PayrollInfo.cshtml",
@@ -609,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
@@ -657,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\aayus\\source\\repos\\XBCAD7319-HR-App-Test1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
